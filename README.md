@@ -1,2 +1,2 @@
 # Kmeans---Machine-Learning
-Implementation of Kmeans Algorithm for clustering or categorization of data points. Data points should be in input.txt file with x and y coordinates in a single line.
+Implementation of Kmeans Algorithm for clustering or categorization of data points. Data points are in the code contained in two dimensional array for x and y coordinates.
